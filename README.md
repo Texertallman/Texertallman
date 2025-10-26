@@ -6,7 +6,7 @@ Web Design
 
 I've been learning code for 1 month, after switch careers. I start with HTML CSS JavaScript, but have really found a passion for front-end developer.
 
-* 🌍  I'm based in Chiangmai, Thailand
+* 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [Apisith.phaya@gmail.com](mailto:Apisith.phaya@gmail.com)
 * 🧠  I'm learning Frameworks, API, English Language
 
